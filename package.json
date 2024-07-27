@@ -5,5 +5,6 @@
   "main": "index.js",
   "repository": "https://github.com/Izaac-M-Barboza/nodejsFundamentos01.git",
   "author": "Izaac M. B.",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
