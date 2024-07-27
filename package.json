@@ -1,0 +1,9 @@
+{
+  "name": "Aula01",
+  "version": "1.0.0",
+  "description": "Primeira aula de node, aprendendo fundamentos do node.js como async/await e forEach. ",
+  "main": "index.js",
+  "repository": "https://github.com/Izaac-M-Barboza/nodejsFundamentos01.git",
+  "author": "Izaac M. B.",
+  "license": "MIT"
+}
